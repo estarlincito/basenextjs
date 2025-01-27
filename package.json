@@ -1,7 +1,7 @@
 {
   "type": "module",
-  "name": "Base NextJS",
-  "version": "v1.0",
+  "name": "basenextjs",
+  "version": "v1.1",
   "private": true,
   "scripts": {
     "dev": "next dev",
